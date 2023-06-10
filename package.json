@@ -1,10 +1,10 @@
 {
   "name": "@farmako/react-scrollmagic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React declarative component for ScrollMagic",
-  "author": "FarmakoHealthcare",
+  "author": "farmako",
   "license": "MIT",
-  "repository": "FarmakoHealthcare/react-scrollmagic",
+  "repository": "farmako/react-scrollmagic",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
