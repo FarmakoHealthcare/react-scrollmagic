@@ -1,6 +1,6 @@
 {
   "name": "@farmako/react-scrollmagic",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "React declarative component for ScrollMagic",
   "author": "farmako",
   "license": "MIT",
